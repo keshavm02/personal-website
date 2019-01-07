@@ -1,6 +1,6 @@
-## Welcome to the repo for my personal website!
+# Welcome to the repo for my personal website!
 
-# Menu Features
+## Menu Features
 - Homepage
 - My Blog
 - Personal Projects
