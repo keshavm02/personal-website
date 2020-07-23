@@ -1,4 +1,4 @@
-# Welcome to the repo for my personal website!
+# Welcome to the repo for my personal website
 
 ## Menu Features
 - Homepage
